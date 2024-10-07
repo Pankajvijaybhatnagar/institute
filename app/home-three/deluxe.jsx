@@ -11,7 +11,7 @@ const Deluxe = () => {
           <div className="col-xl-6 col-md-8">
             <div className="deluxe__two-title md-mb-40">
               <span className="subtitle__one">Our</span>
-              <h2>Services</h2>
+              <h2>Courses</h2>
             </div>
           </div>
           <div className="col-xl-6 col-md-4">

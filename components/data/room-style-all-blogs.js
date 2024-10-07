@@ -10,7 +10,7 @@ import luxury14 from "@/public/img/luxury/luxury-14.jpg";
 
 const roomStyleAllBlogs = [
   {
-    title: "Double Room",
+    title: "Btech",
     des: "facilisis tempor erat facilisis. Proin imperdiet rutrum cursus",
     img: luxury6,
     image: "/img/hotel/hotel-11.jpg",
@@ -20,7 +20,7 @@ const roomStyleAllBlogs = [
     star: 4.9,
   },
   {
-    title: "Small Suite",
+    title: "Mtech",
     des: "facilisis tempor erat facilisis. Proin imperdiet rutrum cursus",
     img: luxury7,
     image: "/img/hotel/hotel-11.jpg",
@@ -31,7 +31,7 @@ const roomStyleAllBlogs = [
     star: 4.4,
   },
   {
-    title: "Luxury room",
+    title: "Bca",
     des: "facilisis tempor erat facilisis. Proin imperdiet rutrum cursus",
     img: luxury8,
     image: "/img/hotel/hotel-12.jpg",
@@ -41,7 +41,7 @@ const roomStyleAllBlogs = [
     star: 4.4,
   },
   {
-    title: "Junior Suite",
+    title: "Mca",
     des: "facilisis tempor erat facilisis. Proin imperdiet rutrum cursus",
     img: luxury9,
     image: "/img/hotel/hotel-13.jpg",
