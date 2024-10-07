@@ -18,7 +18,7 @@ const HeaderThree = () => {
               <div className="header__area-menubar-left">
                 <div className="header__area-menubar-left-logo">
                   <Link href="/">
-                    <img src="/logo.png" alt="logo" />
+                    <img src="/peer_logo_white.png" alt="logo" />
                   </Link>
                   <div className="responsive-menu"></div>
                 </div>
@@ -52,42 +52,42 @@ const HeaderThree = () => {
                     <i className="fal fa-times"></i>
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-logo">
-                    <Link href="/home-three">
-                      <img src="/peer_logo_white.png" alt="logo" />
+                    <Link href="/">
+                      <img src="/logo.png" alt="logo" />
                     </Link>
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-menu">
                     <ul className="side__menu">
                       <li className="menu-item-has-children">
                         <a href="#">Home</a>
-                        <DropDown />
+                        {/* <DropDown /> */}
                         <ul className="sub-menu">
                           <Home />
                         </ul>
                       </li>
                       <li className="menu-item-has-children">
                         <a href="#">Pages</a>
-                        <DropDown />
+                        {/* <DropDown /> */}
                         <ul className="sub-menu">
                           <Page />
                         </ul>
                       </li>
                       <li className="menu-item-has-children">
                         <a href="#">Room</a>
-                        <DropDown />
+                        {/* <DropDown /> */}
                         <ul className="sub-menu">
                           <Room />
                         </ul>
                       </li>
                       <li className="menu-item-has-children">
                         <a href="#">Blog</a>
-                        <DropDown />
+                        {/* <DropDown /> */}
                         <ul className="sub-menu">
                           <Blog />
                         </ul>
                       </li>
                       <li>
-                        <Link href="/contact">Contact</Link>
+                        <Link href="/">Contact</Link>
                       </li>
                     </ul>
                   </div>
