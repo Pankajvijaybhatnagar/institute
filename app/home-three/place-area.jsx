@@ -10,12 +10,12 @@ const Placearea = () => {
               <div className="row">
                 <div className="col-6">
                   <div className="place__area-image-one">
-                    <img src="/img/hotel/hotel-6.jpg" alt="" />
+                    <img src="/img/hotel/cbsLibrery.jpeg" alt="" />
                   </div>
                 </div>
                 <div className="col-6">
                   <div className="place__area-image-two">
-                    <img src="/img/hotel/hotel-7.jpg" alt="" />
+                    <img src="/img/hotel/unnamed.jpg" alt="" />
                   </div>
                 </div>
               </div>
@@ -24,13 +24,13 @@ const Placearea = () => {
           <div className="col-xl-6 col-lg-6 lg-mt-30">
             <div className="place__area-title">
               <span className="subtitle__one">Awesome Place</span>
-              <h2>We're a unique place to Spend time</h2>
+              <h2>We're a unique place to study</h2>
               <p>
                 Phasellus malesuada convallis purus bibendum dictum. Maecenas
                 semper nulla justo, quis pulvinar risus sagittis eget. Sed
                 libero eros, tincidunt eu ante a, ultrices elementum arcu.
               </p>
-              <Link className="theme-btn" href="about">
+              <Link className="theme-btn" href="/">
                 Read More<i className="fal fa-long-arrow-right"></i>
               </Link>
             </div>
