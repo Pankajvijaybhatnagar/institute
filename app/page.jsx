@@ -45,7 +45,7 @@ export default function Home() {
         <Callarea />
         {/* <Services /> */}
         {/* <Roomarea /> */}
-        {/* <Teamarea /> */}
+        <Teamarea />
         <Bookingarea />
         <Placearea />
         <Bandarea />
