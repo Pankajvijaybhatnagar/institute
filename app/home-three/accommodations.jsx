@@ -7,7 +7,7 @@ const Accommodations = () => {
         <div className="row">
           <div className="col-xl-3 col-lg-3 col-md-5 order-last order-lg-first">
             <div className="accommodations__two-left">
-              <img src="/img/hotel/hotel-3.jpg" alt="" />
+              <img src="/img/hotel/cbs.jpg" alt="" />
               <div className="accommodations__two-left-roll">
                 <img
                   className="content__roll"
@@ -27,14 +27,14 @@ const Accommodations = () => {
                 sollicitudin eleifend. Cras efficitur libero sed ante luctus, at
                 convallis erat egestas.
               </p>
-              <Link className="theme-border-btn" href="/about">
+              <Link className="theme-border-btn" href="/">
                 Read More<i className="fal fa-long-arrow-right"></i>
               </Link>
             </div>
           </div>
           <div className="col-xl-4 col-lg-4 col-md-7 md-mb-30">
             <div className="accommodations__two-right">
-              <img src="/img/hotel/hotel-4.jpg" alt="" />
+              <img src="/img/hotel/cbs2.jpg" alt="" />
               <div className="accommodations__two-right-bottom">
                 <div className="accommodations__two-right-bottom-signature">
                   <img src="/img/bg/signature.png" alt="" />
