@@ -1,3 +1,6 @@
+
+"use client"
+
 import React, { useState } from "react";
 import { Blog, Home, Page, Room } from "./Menu";
 import Social from "../socials/page";

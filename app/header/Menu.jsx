@@ -2,9 +2,9 @@ import Link from "next/link";
 import { Fragment } from "react";
 export const Home = () => (
     <Fragment>
-        <li><Link href="/home-three">Home 01</Link></li>
-        <li><Link href="/home-two">Home 02</Link></li>
-        <li><Link href="/home-three">Home 03</Link></li>
+        {/* <li><Link href="/home-three">Home 01</Link></li>
+        <li><Link href="/home-two">Home 02</Link></li> */}
+        {/* <li><Link href="/home-three">Home 03</Link></li> */}
     </Fragment>
 );
 export const Page = () => (
