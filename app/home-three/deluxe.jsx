@@ -53,7 +53,7 @@ const Deluxe = () => {
                     </ul> */}
                   </div>
                   <div className="deluxe__two-item-content-bottom">
-                    <Link className="simple-btn" href="/home-three">
+                    <Link className="simple-btn" href="/">
                       <i className="far fa-chevron-right"></i> Read More
                     </Link>
                     <p>

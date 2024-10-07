@@ -47,7 +47,7 @@ const Banner = () => {
                     <span>{data.subtitle}</span>
                     <h1>{data.title}</h1>
                     <div className="banner__two-content-button">
-                      <Link className="theme-btn" href="/about">
+                      <Link className="theme-btn" href="/">
                         Read More<i className="fal fa-long-arrow-right"></i>
                       </Link>
                     </div>
