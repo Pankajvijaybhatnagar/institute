@@ -10,15 +10,15 @@ const Deluxe = () => {
         <div className="row align-items-end mb-30">
           <div className="col-xl-6 col-md-8">
             <div className="deluxe__two-title md-mb-40">
-              <span className="subtitle__one">Deluxe and Luxury</span>
-              <h2>Luxury Rooms</h2>
+              <span className="subtitle__one">Our</span>
+              <h2>Services</h2>
             </div>
           </div>
           <div className="col-xl-6 col-md-4">
             <div className="deluxe__two-btn t-right md-t-left">
-              <Link className="theme-border-btn" href="/room-list">
+              {/* <Link className="theme-border-btn" href="/room-list">
                 Al room's<i className="fal fa-long-arrow-right"></i>
-              </Link>
+              </Link> */}
             </div>
           </div>
         </div>
@@ -37,23 +37,23 @@ const Deluxe = () => {
                   </Link>
                 </div>
                 <div className="deluxe__two-item-content">
-                  <span>${item.price}/Night</span>
+                  {/* <span>${item.price}/Night</span> */}
                   <h4>
                     <Link href="/room-details">{item.title}</Link>
                   </h4>
                   <p>{item.des}</p>
                   <div className="deluxe__two-item-content-meta">
-                    <ul>
+                    {/* <ul>
                       <li>
                         <i className="fal fa-bed-alt"></i> ({item.bed}) bed's
                       </li>
                       <li>
                         <i className="fal fa-users"></i> ({item.guest}) Guest's
                       </li>
-                    </ul>
+                    </ul> */}
                   </div>
                   <div className="deluxe__two-item-content-bottom">
-                    <Link className="simple-btn" href="/room-details">
+                    <Link className="simple-btn" href="/home-three">
                       <i className="far fa-chevron-right"></i> Read More
                     </Link>
                     <p>
