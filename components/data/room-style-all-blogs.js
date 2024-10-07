@@ -1,4 +1,4 @@
-import luxury6 from "@/public/img/luxury/luxury-6.jpg";
+import luxury6 from "@/public/img/luxury/luxury-6.png";
 import luxury7 from "@/public/img/luxury/luxury-7.jpg";
 import luxury8 from "@/public/img/luxury/luxury-8.jpg";
 import luxury9 from "@/public/img/luxury/luxury-9.jpg";
