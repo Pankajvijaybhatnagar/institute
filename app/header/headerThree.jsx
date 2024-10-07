@@ -24,8 +24,7 @@ const HeaderThree = () => {
                 <div className="header__area-menubar-right-info">
                   <span>
                     <a href="#">
-                      <i className="fal fa-map-marker-alt"></i>869W+P49 Yellow
-                      House, Pennsylvania
+                      <i className="fal fa-map-marker-alt"></i>8 KM. Mile Stone, Jhajjar-Kosli Raod,
                     </a>
                   </span>
                 </div>
@@ -51,7 +50,7 @@ const HeaderThree = () => {
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-logo">
                     <Link href="/">
-                      <img src="/logo-1.png" alt="logo" />
+                      <img src="/peer_logo_white.png" alt="logo" />
                     </Link>
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-menu">
@@ -91,11 +90,11 @@ const HeaderThree = () => {
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-bottom">
                     <p>
-                      Copyright © 2023{" "}
+                      Copyright © 2024{" "}
                       <a href="https://themeforest.net/user/themeori/portfolio">
                         ThemeOri
                       </a>{" "}
-                      Website by <a href="index.html">Hostily</a>
+                      Website by <a href="index.html">BigByteinnovation</a>
                     </p>
                     <div className="header__area-menubar-right-sidebar-popup-social">
                       <Social />

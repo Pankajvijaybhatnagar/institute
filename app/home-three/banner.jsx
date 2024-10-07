@@ -7,12 +7,12 @@ import Link from "next/link";
 const bannerData = {
   bannerItem: [
     {
-      subtitle: "Hotel Booking Website",
+      subtitle: "CBS INSTITUTIONS",
       title: "The best way to book hotels online.",
       image: "/img/banner-2.jpg",
     },
     {
-      subtitle: "Hotel Booking Website",
+      subtitle: "CBS INSTITUTIONS",
       title: "The Best Hotel Deals in the World.",
       image: "/img/banner-4.jpg",
     },
@@ -76,12 +76,12 @@ const Banner = () => {
           </span>
         </div>
       </div>
-      <ModalVideo
+      {/* <ModalVideo
         channel="youtube"
         isOpen={isOpen}
         videoId="SZEflIVnhH8"
         onClose={() => setOpen(false)}
-      />
+      /> */}
     </div>
   );
 };
