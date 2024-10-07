@@ -8,13 +8,13 @@ const bannerData = {
   bannerItem: [
     {
       subtitle: "CBS INSTITUTIONS",
-      title: "The best way to book hotels online.",
-      image: "/img/banner-2.jpg",
+      title: "PATHWAY TO EXCELLENCE",
+      image: "bbb.png",
     },
     {
       subtitle: "CBS INSTITUTIONS",
-      title: "The Best Hotel Deals in the World.",
-      image: "/img/banner-4.jpg",
+      title: "WE TEACH GLOBAL SKILLS & KNOWLEDGE",
+      image: "bbb.png",
     },
   ],
 };

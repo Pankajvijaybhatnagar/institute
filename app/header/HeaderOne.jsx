@@ -32,7 +32,7 @@ export default function HeaderOne({ variant }) {
 					<div className="header__area-menubar-right">
 						<div className="header__area-menubar-right-menu menu-responsive">
                             <ul className="mobile__menu" style={{ display: `${mobileToggle ? "block" : "none"}` }}>
-								<li className="menu-item-has-children"><a href="/">Home</a>
+								<li className="menu-item-has-children"><a href="/home-three">Home</a>
                                     <DropDown />
                                     {/* <ul className="sub-menu">
                                         <Home />

@@ -49,7 +49,7 @@ const HeaderThree = () => {
                     <i className="fal fa-times"></i>
                   </div>
                   <div className="header__area-menubar-right-sidebar-popup-logo">
-                    <Link href="/">
+                    <Link href="/home-three">
                       <img src="/peer_logo_white.png" alt="logo" />
                     </Link>
                   </div>
