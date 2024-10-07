@@ -94,9 +94,7 @@ const HeaderThree = () => {
                   <div className="header__area-menubar-right-sidebar-popup-bottom">
                     <p>
                       Copyright © 2024{" "}
-                      <a href="https://themeforest.net/user/themeori/portfolio">
-                        ThemeOri
-                      </a>{" "}
+                     
                       Website by <a href="index.html">BigByteinnovation</a>
                     </p>
                     <div className="header__area-menubar-right-sidebar-popup-social">
