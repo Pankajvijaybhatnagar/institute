@@ -25,7 +25,7 @@ const Home3 = () => {
         <Accommodations />
         {/* <Services /> */}
         {/* <Roomarea /> */}
-        <Teamarea />
+        {/* <Teamarea /> */}
         <Bookingarea />
         <Placearea />
         <Bandarea />
