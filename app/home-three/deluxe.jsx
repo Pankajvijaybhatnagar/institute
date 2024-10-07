@@ -57,8 +57,8 @@ const Deluxe = () => {
                       <i className="far fa-chevron-right"></i> Read More
                     </Link>
                     <p>
-                      <i className="fas fa-star"></i>
-                      <span>{item.star}</span>2k
+                      {/* <i className="fas fa-star"></i>
+                      <span>{item.star}</span>2k */}
                     </p>
                   </div>
                 </div>
