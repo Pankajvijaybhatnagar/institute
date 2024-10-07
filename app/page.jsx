@@ -43,7 +43,7 @@ export default function Home() {
         <Deluxe />
         <Accommodations />
         <Callarea />
-        <Services />
+        {/* <Services /> */}
         {/* <Roomarea /> */}
         {/* <Teamarea /> */}
         <Bookingarea />
