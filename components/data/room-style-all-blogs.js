@@ -13,7 +13,7 @@ const roomStyleAllBlogs = [
     title: "Btech",
     des: "facilisis tempor erat facilisis. Proin imperdiet rutrum cursus",
     img: luxury6,
-    image: "/img/hotel/hotel-11.jpg",
+    image: "btech.png",
     price: 219,
     bed: 3,
     guest: 4,

@@ -19,13 +19,10 @@ const Accommodations = () => {
           </div>
           <div className="col-xl-5 col-lg-5 lg-mb-30">
             <div className="accommodations__two-title">
-              <span className="subtitle__one">Accommodations</span>
-              <h2>Traveling with your Company deal</h2>
+              <span className="subtitle__one"></span>
+              <h2>Activities</h2>
               <p>
-                Nullam tempus vel tortor eget suscipit. Suspendisse enim dolor,
-                placerat quis elit et, feugiat consectetur mauris. Cras tempor
-                sollicitudin eleifend. Cras efficitur libero sed ante luctus, at
-                convallis erat egestas.
+               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis porro ea numquam sit consectetur, impedit expedita fuga alias at voluptatum sed! Itaque nihil quas quaerat, vel reprehenderit vitae voluptatibus illo!
               </p>
               <Link className="theme-border-btn" href="/">
                 Read More<i className="fal fa-long-arrow-right"></i>
@@ -36,13 +33,13 @@ const Accommodations = () => {
             <div className="accommodations__two-right">
               <img src="/img/hotel/cbs2.jpg" alt="" />
               <div className="accommodations__two-right-bottom">
-                <div className="accommodations__two-right-bottom-signature">
+                {/* <div className="accommodations__two-right-bottom-signature">
                   <img src="/img/bg/signature.png" alt="" />
-                </div>
-                <div className="accommodations__two-right-bottom-author">
+                </div> */}
+                {/* <div className="accommodations__two-right-bottom-author">
                   <h5>David Beckham</h5>
                   <span>Founder CEO</span>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

@@ -4,11 +4,11 @@ const Callarea = () => {
       <div className="container">
         <div
           className="row align-items-center call__area-bg"
-          style={{backgroundImage: `url('/img/bg/call.jpg')`}}
+          style={{backgroundImage: `url('contact-us-concept-free-photo.jpg')`}}
         >
           <div className="col-xl-8">
             <div className="call__area-bg-left">
-              <h2>Need any Contact with Us</h2>
+              <h2> Contact with Us</h2>
             </div>
           </div>
           <div className="col-xl-4">
@@ -18,7 +18,7 @@ const Callarea = () => {
               </div>
               <div className="call__area-bg-right-content">
                 <span>
-                  <a href="tel:+123(458)585568">+123 (458) 585 568</a>
+                  <a href="tel:+123(458)585568">9999999999</a>
                 </span>
               </div>
             </div>

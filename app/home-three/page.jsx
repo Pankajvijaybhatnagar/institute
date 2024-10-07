@@ -23,9 +23,9 @@ const Home3 = () => {
         <Deluxe />
         <Callarea />
         <Accommodations />
-        <Services />
+        {/* <Services /> */}
         {/* <Roomarea /> */}
-        <Teamarea />
+        {/* <Teamarea /> */}
         <Bookingarea />
         <Placearea />
         <Bandarea />
