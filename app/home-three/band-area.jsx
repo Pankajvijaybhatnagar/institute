@@ -33,20 +33,35 @@ const Bandarea = () => {
 			<div className="row band__area-border">
 				<div className="col-xl-12">
            <h3>Our Top Recruiter</h3>
-      <Swiper
-        slidesPerView={6}
-        autoplay={{
-          delay: 1500,
-        }}
-        loop={true}
-        modules={[Autoplay]}
-      >
-        {brandImage?.map((data, id) => (
-        <SwiperSlide className="band__area-item" key={id}>
-          <img src={data.image} alt="image" />
-        </SwiperSlide>
-        ))}
-      </Swiper>
+           <Swiper
+  slidesPerView={6}
+  autoplay={{
+    delay: 1500,
+  }}
+  loop={true}
+  modules={[Autoplay]}
+  breakpoints={{
+    // when window width is >= 320px (common mobile screen)
+    320: {
+      slidesPerView: 2,
+    },
+    // when window width is >= 768px (tablet screen)
+    768: {
+      slidesPerView: 4,
+    },
+    // when window width is >= 1024px (desktop screen)
+    1024: {
+      slidesPerView: 6,
+    },
+  }}
+>
+  {brandImage?.map((data, id) => (
+    <SwiperSlide className="band__area-item" key={id}>
+      <img src={data.image} alt="image" />
+    </SwiperSlide>
+  ))}
+</Swiper>
+
     </div>
     </div>
     </div>
