@@ -3,18 +3,18 @@ import { Autoplay } from "swiper/modules";
 
 const brandData = {
   brandImage: [
-    { image: "/img/icon/1.png" },
-    { image: "/img/icon/2.png" },
-    { image: "/img/icon/3.png" },
-    { image: "/img/icon/4.png" },
-    { image: "/img/icon/5.png" },
-    { image: "/img/icon/6.png" },
-    { image: "/img/icon/1.png" },
-    { image: "/img/icon/2.png" },
-    { image: "/img/icon/3.png" },
-    { image: "/img/icon/4.png" },
-    { image: "/img/icon/5.png" },
-    { image: "/img/icon/6.png" },
+    { image: "12.jpg" },
+    { image: "13.jpg" },
+    { image: "14.jpg" },
+    { image: "15.jpg" },
+    { image: "16.jpg" },
+    { image: "17.jpg" },
+    // { image: "/img/icon/1.png" },
+    // { image: "/img/icon/2.png" },
+    // { image: "/img/icon/3.png" },
+    // { image: "/img/icon/4.png" },
+    // { image: "/img/icon/5.png" },
+    // { image: "/img/icon/6.png" },
   ],
 };
 
@@ -26,6 +26,7 @@ const Bandarea = () => {
 		<div className="container">
 			<div className="row band__area-border">
 				<div className="col-xl-12">
+           <h3>Recruiter</h3>
       <Swiper
         slidesPerView={6}
         autoplay={{
