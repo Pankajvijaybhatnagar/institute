@@ -73,7 +73,7 @@ const HeaderThree = () => {
                         </ul>
                       </li>
                       <li className="menu-item-has-children">
-                        <a href="#">Room</a>
+                        {/* <a href="#">Room</a> */}
                         {/* <DropDown /> */}
                         <ul className="sub-menu">
                           <Room />
