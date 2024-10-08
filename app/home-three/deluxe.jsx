@@ -16,9 +16,9 @@ const Deluxe = () => {
           </div>
           <div className="col-xl-6 col-md-4">
             <div className="deluxe__two-btn t-right md-t-left">
-              {/* <Link className="theme-border-btn" href="/room-list">
-                Al room's<i className="fal fa-long-arrow-right"></i>
-              </Link> */}
+              <Link className="theme-border-btn" href="/">
+                Read more..<i className="fal fa-long-arrow-right"></i>
+              </Link>
             </div>
           </div>
         </div>
