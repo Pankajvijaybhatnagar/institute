@@ -38,7 +38,7 @@ export default function Home() {
         <Footer />
         <ScrollToTopButton /> */}
         <SEO pageTitle='Home Three' />
-        <HeaderThree />
+        {/* <HeaderThree /> */}
         <Banner />
         <Deluxe />
         <Accommodations />
