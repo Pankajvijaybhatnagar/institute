@@ -27,7 +27,7 @@ const Deluxe = () => {
             <div key={index} className="col-xl-3 col-lg-4 col-md-6 mt-30">
               <div className="deluxe__two-item">
                 <div className="deluxe__two-item-image">
-                  <Link href="/room-details">
+                  <Link href="/">
                     <Image
                       src={item.img.src}
                       alt={item.title}
